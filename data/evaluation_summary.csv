@@ -1,0 +1,9 @@
+Metric,gpt-5.6-sol,gpt-5.6-luna
+Total samples,50,50
+Correct,50,50
+Incorrect,0,0
+Abstained,0,0
+Accuracy,100.0%,100.0%
+Answer Accuracy,100.0%,100.0%
+Abstention Rate,0.0%,0.0%
+Coverage,100.0%,100.0%
